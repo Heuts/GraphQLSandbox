@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQL.Sandbox", "GraphQL.Sandbox\GraphQL.Sandbox.csproj", "{EFE551DA-6256-493E-9F08-4FBB7C61A603}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFE551DA-6256-493E-9F08-4FBB7C61A603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE551DA-6256-493E-9F08-4FBB7C61A603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE551DA-6256-493E-9F08-4FBB7C61A603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE551DA-6256-493E-9F08-4FBB7C61A603}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC9E4202-BA4B-4D50-858D-D148808E87F6}
+	EndGlobalSection
+EndGlobal
